@@ -1,0 +1,1 @@
+web: gunicorn django-real-estate-project.wsgi
