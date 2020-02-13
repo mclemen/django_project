@@ -1,1 +1,1 @@
-web: gunicorn django-realestate-project.app
+web: gunicorn django-realestate-project.wsgi
