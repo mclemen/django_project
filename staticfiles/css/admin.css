@@ -1,0 +1,13 @@
+#header {
+    height: 50px;
+    background-color: #87CEEB;
+    color: #000;
+}
+
+#branding h1{
+    color: #000;
+}
+
+#header a:link{
+    color: #000
+}
